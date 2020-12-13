@@ -2,15 +2,18 @@
 
 * The soul editor of shell VI, this script will change the look of vi development env.
      
-** Create a new file 
-        ```css
+* If you dont have one, execute the following shell query to install vim.
+        
+        sudo apt-get install vim
+
+* Create a new file 
+
         
         $ ~\.vimrc
 
-        ```
-** Add the following code in file
-        
-        ```css
+
+* Add the following code in file
+       
 
         syntax on
         colorscheme pablo
@@ -22,5 +25,3 @@
         :set smartindent
         :set cindent
         
-        ````
-
