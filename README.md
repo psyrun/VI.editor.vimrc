@@ -9,7 +9,7 @@
 * Create a new file 
 
         
-        $ ~\.vimrc
+        $ vi ~\.vimrc
 
 
 * Add the following code in file
@@ -24,4 +24,5 @@
         :set autoindent
         :set smartindent
         :set cindent
-        
+
+* Save the file.
